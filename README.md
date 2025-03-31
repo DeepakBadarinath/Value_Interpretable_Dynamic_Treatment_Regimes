@@ -6,4 +6,4 @@ We also present ideas of scaling this approach under tightness assumptions.
 To be done:
 1. Scaled version of the simulated experiments
 2. Real world data approaches
-3. Extension of the theory for the Tight Value Interpretable Dynamic Regimes approach
+3. Extension of the theory and experiments for the Tight Value Interpretable Dynamic Regimes approach.
