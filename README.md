@@ -3,6 +3,8 @@ Given modelling parameters for a Markov Decision Process, we present a greedy me
 
 We also present ideas of scaling this approach under tightness assumptions. In order to scale the approach, we observe that we must solve the convex envelope problem in D-space. We come with an analytic linear algebraic way to solve the 1D convex envelope problem. Further we extend Borkar's Q-learning approach to high dimensional space and derive error bounds for Borkar's approach and it's extension.
 
+On the codebase side, we present a multithreaded parallelizable version of each algorithm that runs efficiently on the cluster and GPUs. We also present a low latency C++ version of the algorithm suitable for running high dimensional simulated and real world data experiments. 
+
 To be done:
 1. Scaled version of the simulated experiments
 2. Real world data approaches
